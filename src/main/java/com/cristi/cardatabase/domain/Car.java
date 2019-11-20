@@ -24,6 +24,7 @@ public class Car {
 
     public Car() {
     }
+    
 
     public Car(String brand, String model, String color, String registerNumber, int year, int price) {
         super();
